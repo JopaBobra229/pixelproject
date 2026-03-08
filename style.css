@@ -1,0 +1,71 @@
+/* Не забудь подключить нужные шрифты. Удачи в разработке! */
+
+body {
+    margin: 0;
+    padding: 0;
+    width: 100vw;
+    min-height: 100vh;
+    background-color: dodgerblue;
+}
+
+.smencv{
+    border: 1px solid black;
+    width: 100px;
+}
+.smencv2{
+    border: 1px solid black;
+    width: 100px;
+}
+
+
+.NM{
+    width:100vw;
+    height: 55vh;
+    text-align: center ;
+    background-color: rgb(76, 184, 184);
+}
+
+.anan{
+    display: flex;
+    justify-content: center;
+}
+
+.an{
+    border: 1px solid black;
+    width: 10%;
+}
+
+.an:hover{
+    background-color: rgb(255, 255, 255);
+}
+
+.rob{
+    text-align: center;
+    width:100vw;
+    height: 50vh;
+    border-collapse: collaps;
+ 
+}
+
+td{
+    border:1px solid black ;
+    background-color: rgb(123, 123, 190);
+}
+
+.about{
+    width: 100vw;
+    
+}
+
+.ris{
+    width: 100vw;
+    display: flex;
+}
+
+.op{
+    width:50vw;  
+}
+
+.os{
+    width:50vw;
+}
